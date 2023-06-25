@@ -7,6 +7,6 @@ Then Enter the First and the Second Number and the Action you want to do ' * ,/ 
 Links -
 Pycharm : https://www.jetbrains.com/pycharm/download/#section=windows
 
-Instagram : instagram.com/simonvphilipp/
+Instagram : https://instagram.com/simonvphilipp/
 
 Made by zitrus2k
