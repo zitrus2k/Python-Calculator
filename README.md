@@ -1,7 +1,7 @@
 # Python-Calculator
 
 A simple  Calculator
-Put the Code in Pycharm or other Programms
+put the Code in Pycharm or other Programms
 Then Enter the First and the Second Number and the Action you want to do ' * ,/ , + , - '
 
 Links -
